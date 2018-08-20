@@ -1,0 +1,12 @@
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!--<solid android:color="#e6d2d2"/>-->
+    <!-- the first 2 bytes(alpha) of 8 are optional and mean percent of opacity -->
+    <solid android:color="#aa0099cc"/>
+    <size
+        android:width="100px"
+        android:height="100px">
+    </size>
+</shape>
